@@ -1,2 +1,13 @@
 # SuperMicro-Jumpstart
-# University. ## Kitana Toft Home: https://kitanatoft.com/ - [@24:00](https://youtu.be/X2yQAHqPTvw?t=1430) # Home: https://www.supermicro.com/en/jumpstart
+Home:
+- https://www.supermicro.com/en/jumpstart
+
+# University.
+## people: Kitana Toft
+Home:
+- https://kitanatoft.com/
+- https://github.com/kctoft
+
+Relation:
+- [@24:00](https://youtu.be/X2yQAHqPTvw?t=1430)
+
